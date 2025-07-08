@@ -1,0 +1,5 @@
+name,subscriptionDate,expirationDate,isActive
+user1,2025-07-01,2025-07-10,false
+user2,2025-07-02,2025-07-05,false
+user3,2025-07-03,2025-07-15,true
+user4,2025-07-04,2025-07-06,false
